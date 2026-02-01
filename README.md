@@ -28,7 +28,7 @@ Display copyright and contact information.
 - Media queries for responsive design  
 
 ## How to Use
-Open thevisit the deployed Netlify link. Or test locally: open `index.html` file in a web browser.
+Open or isit the deployed Netlify link: `https://capable-babka-60d8c7.netlify.app/`. Or test locally: open `index.html` file in a web browser.
 Resize the browser window to see the responsive behavior.
 
 
